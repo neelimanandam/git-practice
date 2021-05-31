@@ -1,1 +1,7 @@
 I created this page for practicing git
+
+I created develop branch
+
+Added another line to check whether it iscomitting to my account for not
+
+branch2
